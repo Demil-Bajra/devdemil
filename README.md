@@ -48,7 +48,6 @@ I believe in learning by building, experimenting with new technologies, and cont
 | ------------------ | ------------------------------------------------------------------------------- | ----------------------- |
 | Personal Portfolio | My personal portfolio showcasing my background, projects, and learning journey. | HTML, CSS, JavaScript   |
 | Focus Flow         | A productivity dashboard designed to organize tasks and improve focus.          | AI-assisted Development |
-|                    |                                                                                 |                         |
 
 ### 📚 Currently Learning
 
