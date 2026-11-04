@@ -71,7 +71,7 @@ I'm at the beginning of my journey, and this GitHub profile is a reflection of m
 ### 🌐 Connect With Me
 
 * 🌍 Portfolio: [demilbajracharya.com.np](https://demilbajracharya.com.np)
-* 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/demil-bajracharya/)
+* 💼 LinkedIn: [linkedin.com/in/demil-bajracharya/](https://linkedin.com/in/demil-bajracharya/)
 * 📧 Email: [bajracharyademil@gmail.com](mailto:bajracharyademil@gmail.com)
 * 🐙 GitHub: [Explore my repositories](github.com/Demil-Bajra)
 
