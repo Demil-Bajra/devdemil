@@ -12,10 +12,10 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 ### 🚀 About Me
 
-* 🎓 Currently pursuing BCA at Trinity International College, Nepal.
+* 🎓 Currently pursuing BCA at Trinity International College.
 * 💻 Learning programming and software development.
 * 🐍 Currently exploring Python and strengthening my programming fundamentals.
-* 🤖 Interested in Artificial Intelligence, Machine Learning, and emerging technologies.
+* 🤖 Interested in Artificial Intelligence, Machine Learning, Cyber Security and emerging technologies.
 * 🛠️ Exploring AI-powered development tools and vibe coding.
 * 🌱 Focused on building real-world projects and developing practical skills.
 * 🎯 Long-term goal: Become a skilled software developer and build products that solve real-world problems.
@@ -72,7 +72,7 @@ I'm at the beginning of my journey, and this GitHub profile is a reflection of m
 ### 🌐 Connect With Me
 
 * 🌍 Portfolio: [demilbajracharya.com.np](https://demilbajracharya.com.np)
-* 💼 LinkedIn: linkedin.com/in/demil-bajracharya/
+* 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/demil-bajracharya/)
 * 📧 Email: [bajracharyademil@gmail.com](mailto:bajracharyademil@gmail.com)
 * 🐙 GitHub: [Explore my repositories](github.com/Demil-Bajra)
 
