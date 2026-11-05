@@ -44,10 +44,11 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 ### 📂 Featured Projects
 
-| Project            | Description                                                                     | Technologies            |
-| ------------------ | ------------------------------------------------------------------------------- | ----------------------- |
-| Personal Portfolio | My personal portfolio showcasing my background, projects, and learning journey. | HTML, CSS, JavaScript   |
-| Focus Flow         | A productivity dashboard designed to organize tasks and improve focus.          | AI-assisted Development |
+| Project                        | Description                                                                                                                              | Technologies              |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Personal Portfolio             | My personal portfolio showcasing my background, projects, and learning journey.                                                          | HTML, CSS, JavaScript     |
+| Focus Flow                     | A productivity dashboard designed to organize tasks and improve focus.                                                                   | AI-assisted Development   |
+| Bank Account Management System | A console-based banking system featuring account creation, deposits, withdrawals, balance inquiries, and persistent binary file storage. | C, Structs, File Handling |
 
 ### 📚 Currently Learning
 
